@@ -1,0 +1,10 @@
+{
+    "database": {
+        "type": "mysql",
+        "name": "cinema_db",
+        "host": "localhost",
+        "port": 3306,
+        "user": "cinema_user",
+        "pass": "cinema$1234"
+    }
+}
